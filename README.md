@@ -127,11 +127,11 @@ Statistik 10 protein paling berpengaruh **sebelum praproses**:
 
 ```mermaid
 flowchart LR
-    A[📥 Data mentah<br/>1.095 × 82] --> B[🩹 Imputasi<br/>median per kolom]
-    B --> C[✂️ Pisah fitur<br/>& encode target]
-    C --> D[📏 Normalisasi<br/>Min-Max 0–1]
-    D --> E[🎯 Split 70:30<br/>stratified]
-    E --> F[🤖 Pemodelan<br/>KNN · GNB · DT]
+    A["Data mentah (1095 x 82)"] --> B["Imputasi median per kolom"]
+    B --> C["Pisah fitur dan encode target"]
+    C --> D["Normalisasi Min-Max"]
+    D --> E["Split 70:30 stratified"]
+    E --> F["Pemodelan KNN, GNB, DT"]
 ```
 
 | # | Tahap | Penjelasan |
