@@ -335,6 +335,25 @@ pip install -r requirements.txt
 
 ---
 
+## 8. 📄 Laporan Lengkap
+
+<div align="center">
+
+[![Baca Laporan](https://img.shields.io/badge/Baca_Laporan_Lengkap-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Eruumaa/DATAMINING-MIDTERM/blob/main/250810701100003_UTS_Muhammad%20Aqil%20Mubarak.pdf)
+[![Unduh Laporan](https://img.shields.io/badge/Unduh_PDF-997_KB-2E7D32?style=for-the-badge&logo=files&logoColor=white)](https://github.com/Eruumaa/DATAMINING-MIDTERM/raw/main/250810701100003_UTS_Muhammad%20Aqil%20Mubarak.pdf)
+
+**LAPORAN PROYEK DATA MINING**
+*Klasifikasi Genotipe Tikus Berdasarkan Profil Ekspresi Protein Menggunakan K-Nearest Neighbor, Gaussian Naive Bayes, dan Decision Tree*
+
+`250810701100003_UTS_Muhammad Aqil Mubarak.pdf`
+
+</div>
+
+> [!TIP]
+> Klik **Baca Laporan Lengkap** untuk membuka laporan langsung di GitHub tanpa perlu mengunduh. Gunakan `Ctrl + F` untuk mencari kata kunci di dalam laporan, atau klik **Unduh PDF** untuk membacanya secara offline.
+
+---
+
 <div align="center">
 
 **Muhammad Aqil Mubarak** · Departemen Informatika, Universitas Syiah Kuala · 2026
